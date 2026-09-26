@@ -1,0 +1,6 @@
+{
+  "name": "Bradoh Tech Auto Spares",
+  "description": "Bradoh Tech Auto Spares supplies quality car body parts and automotive lighting solutions in Nairobi, Kenya. Contact us for enquiries and availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
